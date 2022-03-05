@@ -1,0 +1,11 @@
+.banner{
+background-image: linear-gradient(-225deg, rgba(17, 65, 59, 0.5), rgba(243, 155, 83, 0.3)), url(../../images/banner.jpg);
+color: white;
+padding: 150px 0px;
+background-size: cover;
+background-position: center
+}
+
+.banner-with-flat-filter {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('images/banner.jpg');
+}

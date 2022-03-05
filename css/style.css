@@ -1,0 +1,35 @@
+
+@import url(https://fonts.googleapis.com/css2?family=Bitter:wght@300&family=Yanone+Kaffeesatz:wght@300&display=swap);
+ 
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/cards.css");
+
+
+body{
+	font-family: 'Bitter', serif;
+	font-size: 18px;
+}
+h1{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 40px;
+	font-weight: bolder;
+}
+a{
+	text-decoration: none;
+}
+h2{
+	font-weight: bolder;
+}
+
+h3{
+	font-weight: lighter;
+}
